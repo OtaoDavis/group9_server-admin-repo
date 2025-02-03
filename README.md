@@ -1,1 +1,1 @@
-# group10_server-admin-repo
+# server-admin-repo
